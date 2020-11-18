@@ -1,0 +1,44 @@
+body{
+    background-color: #e9ecef;
+    color: #222831;
+}
+
+.owl-carousel .owl-item img {
+    width: 70%;
+}
+.fondo{
+    background-color: red;
+}
+.item{
+   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.margen{
+    margin: 20px;
+}
+.borde-personales{
+    border-top: #00296b;
+    border-bottom: #00296b;
+    border-style: solid;
+    border-right: inherit;
+    border-left: inherit;
+}
+
+.borde-educacion{
+   border-left: 4px solid #00296b;
+   border-right: 4px solid #00296b;
+   border-radius: 10px;
+   margin-bottom: 10px;
+}
+.fondo-title{
+    background-color: #003f88;
+    color: #e9ecef;
+   
+}
+.container-title{
+    border-radius: 15px;
+    border-style: solid;
+    border-color: #00296b;
+
+}
